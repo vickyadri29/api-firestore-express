@@ -1,5 +1,5 @@
 # api-firestore-express
-Database Used : NoSQL Database, Firestore :
+Database Used : NoSQL Database, Firestore \
 Deploy Rest API on Cloud Function.
 All End Points :
 - EndPoint Home : https://us-central1-budayai-c22-ps195.cloudfunctions.net/app/api/v1/home
